@@ -1,1 +1,3 @@
-# hello-jogee
+# maven-project
+
+Simple Maven Project
